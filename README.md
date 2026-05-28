@@ -29,7 +29,11 @@ The dataset contains information about Netflix titles, including:
 - Rating
 - Duration
 - Genres
+## Final Insight Summary
 
+Key insights extracted from the Netflix content analysis project:
+
+![Netflix Final Summary](images/TongKet.png)
 ---
 
 ## Project Structure
